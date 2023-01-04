@@ -10,6 +10,7 @@ public class StringProgram {
         //Alasj
         //jjjjjj
         //akashhhhhh
+        //f2
 
 ///////using java 8  features/////////
         String s = "aakash kawades";
