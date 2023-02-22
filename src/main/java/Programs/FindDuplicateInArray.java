@@ -5,7 +5,6 @@ import java.util.HashSet;
 
 public class FindDuplicateInArray {
 
-//akash kawade
 
     public static void main(String[] args) {
 
